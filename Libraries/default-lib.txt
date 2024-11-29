@@ -1,0 +1,7 @@
+This is the geoscript stdlib folder
+
+download the stdlib manually from https://github.com/TheRealMtjGD/GSLIB
+
+or use the installer files at /INSTALL_SCRIPTS, select your operating system and then run
+that should automaticly download and install GSLIB and also install GeoScript with it all
+together
